@@ -84,7 +84,7 @@ button:hover {
 .third-button {
   color: hsl(179, 100%, 13%);
 }
-@media (max-width: 376px) {
+@media (max-width: 375px) {
   main {
     display: flex;
     flex-direction: column;
